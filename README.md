@@ -3,7 +3,7 @@ Currently, I'm embarking on my journey into the Computer Science magnificent fie
 ### Useful personal data
 - 16 years old.
 - High school student.
-- Active between 6:00 pm and 10:30pm.
+- Usually active between 6:00 pm and 10:30pm.
 - I'm learning algorithms, data structures and the basics of Python. My purpose is to become a fantastic artificial intelligence developer.
 - Developer environment: I use Fedora Workstation as my OS (Operative System) and GNOME as the desktop environment.
 
